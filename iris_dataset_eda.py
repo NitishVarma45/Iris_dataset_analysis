@@ -20,3 +20,8 @@ sns.FacetGrid(iris,hue="species",height = 4) \
 .map(plt.scatter,'sepal_length','sepal_width') \
 .add_legend()
 plt.show()
+
+#pair-plot
+sns.set_style("whitegrid")
+sns.pairplot(iris, hue="species", size=3)
+plt.show()
