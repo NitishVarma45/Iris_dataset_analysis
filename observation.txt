@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 After drawing a proper scatter plot for the three species — setosa, versicolor, and virginica — we can observe an interesting pattern. If we draw a straight line passing through the origin, the setosa data points lie clearly above the line, while the points corresponding to versicolor and virginica lie below it.
 This allows us to separate setosa from the other two species using a straight line.
 
@@ -7,3 +8,14 @@ However, the remaining two species — versicolor and virginica — cannot be se
 So, a different and more advanced method is required to separate them.
 
 For now, we do not have an answer to how this can be done — but we will definitely come back to it at a later stage.
+=======
+After drawing a proper scatter plot for the three species — setosa, versicolor, and virginica — we can observe an interesting pattern. If we draw a straight line passing through the origin, the setosa data points lie clearly above the line, while the points corresponding to versicolor and virginica lie below it.
+This allows us to separate setosa from the other two species using a straight line.
+
+This kind of separation or classification is known as linear separability, where a single straight line (or hyperplane in higher dimensions) is sufficient to divide the data into distinct classes.
+
+However, the remaining two species — versicolor and virginica — cannot be separated using this simple linear approach, as their data points overlap significantly.
+So, a different and more advanced method is required to separate them.
+
+For now, we do not have an answer to how this can be done — but we will definitely come back to it at a later stage.
+>>>>>>> 8b207781c8424f10cd2d9e4d71d1533be1def4d4

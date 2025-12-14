@@ -21,7 +21,7 @@ sns.FacetGrid(iris,hue="species",height = 4) \
 .add_legend()
 plt.show()
 
-#pair-plot
+#pair-plot : Better visualization.
 sns.set_style("whitegrid")
 sns.pairplot(iris, hue="species", size=3)
 plt.show()
