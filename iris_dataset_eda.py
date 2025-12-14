@@ -31,5 +31,4 @@ plt.show()
 #box-plot: for petal length.
 sns.boxplot(x="species",y="petal_length",data = iris)
 plt.show()
-=======
->>>>>>> 92e99d9a3e95fc8823682de87fb1ce76b12e9e3b
+
