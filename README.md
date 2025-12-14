@@ -6,5 +6,5 @@ sepal length and sepal width for three species:
 - Versicolor
 - Virginica
 
-Using Python, pandas, matplotlib, and seaborn, a scatter plot is created
+Using Python, pandas, matplotlib, and seaborn, a scatter plot and pair plot is created
 to observe how the species are distributed.
