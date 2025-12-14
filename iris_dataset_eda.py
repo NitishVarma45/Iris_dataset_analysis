@@ -24,8 +24,5 @@ plt.show()
 #pair-plot : Better visualization.
 sns.set_style("whitegrid")
 sns.pairplot(iris, hue="species", size=3)
-<<<<<<< HEAD
 plt.show()
-=======
 plt.show()
->>>>>>> e0a12855fab051cafded8e6098e41f9313ccd502
